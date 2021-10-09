@@ -153,6 +153,7 @@ _Can let machine do the following using Supervised/Unsupervised Techniques.._
 ## NLP Competency:
 
 _Can let Machine do the following tasks.._
+
 § Understand the sentiment of Tweets
 
 § Create Word Clouds from a data set

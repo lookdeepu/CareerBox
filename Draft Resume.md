@@ -20,7 +20,7 @@ To make a Computer, a Story-Teller looking at any Data
 
 # Skills and Abilities
 
-Python, R, Javascript, Azure Machine Learning Studio, Power BI (Dax and Power Query), Wolfram Language, Chatbots (AI), NLP and x xx
+Python, R, Javascript, Azure Machine Learning Studio, Power BI (Dax and Power Query), Wolfram Language, Chatbots (AI), NLP
 
 
 ## Data Scientist, TCS (6+ years)	

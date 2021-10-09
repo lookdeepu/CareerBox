@@ -140,7 +140,7 @@ Below links show  my works: (Few are my own, few are borrowed)
 
 Can let machine do the following using Supervised/Unsupervised Techniques
 
-> Predict numerical data using Regression Methods
+§ Predict numerical data using Regression Methods
 
 ..Classify Categorical data and predict the Target value using Decision Tree/Random Forest/Naive Bayes/Neural Networks/Support Vector Machines
 

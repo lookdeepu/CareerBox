@@ -142,24 +142,26 @@ Can let machine do the following using Supervised/Unsupervised Techniques
 
 § Predict numerical data using Regression Methods
 
-..Classify Categorical data and predict the Target value using Decision Tree/Random Forest/Naive Bayes/Neural Networks/Support Vector Machines
+§ Classify Categorical data and predict the Target value using Decision Tree/Random Forest/Naive Bayes/Neural Networks/Support Vector Machines
 
-..Cluster data using KNN Clustering Algorithm
+§ Cluster data using KNN Clustering Algorithm
 
-..Detect Patterns using Market Basket Analysis
+§ Detect Patterns using Market Basket Analysis
 
-..Classify image data using Neural Network
+§ Classify image data using Neural Network
 
 ## NLP Competency
 
 Can let Machine do the following tasks
 
-..Understand the sentiment of Tweets
+§ Understand the sentiment of Tweets
 
-..Create Word Clouds from a data set
+§ Create Word Clouds from a data set
 
-..Classify the topics to a specific subject
+§ Classify the topics to a specific subject
 
-..Identify an email is spam or not
+§ Identify an email is spam or not
 
-..Create Chatbots for Personal and Business use
+§ Create Chatbots for Personal and Business use
+
+※∞※

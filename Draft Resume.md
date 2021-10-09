@@ -1,7 +1,3 @@
-
-
-
-
 # ANKEM PRADEEP
 
 
@@ -15,12 +11,11 @@
 
 # About Me
 
-“Engineer by trade, Mathematician by heart”
-
+_“Engineer by trade, Mathematician by heart”_
 
 # Objective
 
-To make a Computer, a Story-Teller looking at any Data.gxz xxzZr
+To make a Computer, a Story-Teller looking at any Data
 
 
 # Skills and Abilities
@@ -36,8 +31,6 @@ Within TCS, I have taken 4 Client engagements (3 Global and 1 Domestic) as an **
 
 _Summary of my journey in TCS so far:_
 
-
-
 * Built End to End Dashboard for Data Center Services that helped the client to monitor KPIs on Monthly basis 
 * Built End to End Dashboard for Project Management to track the complete progress of any given project
 * Designed IT Service Desk Chatbot for the Client that helps for incident management tracking and helped the Client very well during lean staff scenarios, especially in covid-hit time zones.  
@@ -45,11 +38,8 @@ _Summary of my journey in TCS so far:_
 * Used R Plots and integrated with Power BI for better visuals. 
 
 
-## Data Analyst, GMR Group (6 years)	 {#data-analyst-gmr-group-6-years}
-
+## Data Analyst, GMR Group (7+ years)
 Feb 2008 – June 2014
-
-
 
 * Done Budget Forecasting and Audit analysis of IT Finance for the Enterprise
 * Done Risk Analysis on Financial Models for Infra Projects using Monte Carlo Simulation
@@ -59,8 +49,6 @@ Feb 2008 – June 2014
 
 
 # Education
-
-
 
 * Jain Group of Institutes – PGDBM – Finance with Marketing – Completed on 2008 
 * Dr. MGR Engineering College – B.E. – Electronics and Communications – Completed on 2006
@@ -72,7 +60,7 @@ Feb 2008 – June 2014
 ```
 I am also keen on designing my own bots, web apps and creative code runs.
 
-Below links show  my works: ( Few are my own, few are borrowed)
+Below links show  my works: (Few are my own, few are borrowed)
 
 
 ```
@@ -86,14 +74,13 @@ Below links show  my works: ( Few are my own, few are borrowed)
 
 * Experience in Creating Management Dashboards
 * Done Whiteboard animation and published in YouTube
-* Guest speaker on Artificial Intelligence at Jain Group Institutes, Bangalore
+* Guest speaker on Artificial Intelligence at Jain Group Institutions, Bangalore
 * Writer of Short Stories and Poetry
 * Internal trainer on IT solutions at GMR
 * Guest Trainer on Machine Learning and Artificial Intelligence
 
 **About Family:** Married with two kids
 
-***
 
 
 # Appendix

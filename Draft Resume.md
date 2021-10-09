@@ -85,9 +85,7 @@ Below links show  my works: (Few are my own, few are borrowed)
 
 # Appendix
 
-    **Visualization:**
-
-
+## Visualization:
 
 * Plotting visual graphs like Sankey Charts, Pie Charts, Radar Charts & Pareto Charts of Ticket data analysis
 * Plotting advanced charts such as Histogram, Word cloud, and multi-dimensional Cluster Charts 
@@ -95,16 +93,14 @@ Below links show  my works: (Few are my own, few are borrowed)
 * Use of Power BI to Generate Reports with Data Mining Computable Tools
 * Use of Power BI to Generate Real time LCM Dashboard (for Servers, Network Devices and Laptop/Desktops)
 
-    **Automation:**
+## Automation:
 
 * Integrate Service Tickets Reports to Power BI or Excel using Data Connections features
 * Using Text analytics to auto categorize the tickets and convert to actionable items to necessary functional departments
 * Chatbot using AI for IT Service Management
 * Using Machine Learning Algorithms for Pattern Recognition
 
-**Power BI Competency:**
-
-
+## Power BI Competency:
 
 * Importing business data and automatically creating dashboards from services such as Service-Now
 * Connecting to and importing data, then shaping and transforming that data
@@ -116,9 +112,7 @@ Below links show  my works: (Few are my own, few are borrowed)
 * Sharing dashboards effectively based on organization’s needs
 * Leveraging upon Custom visuals in Power BI
 
-**Excel Competency:**
-
-
+## Excel Competency:
 
 * Performing data analysis in Excel using classic tools, such as pivot tables, pivot charts, and slicers, on data that is already in a worksheet / grid data. 
 * Performing Customized Queries beyond the Standard user requirements.
@@ -126,9 +120,7 @@ Below links show  my works: (Few are my own, few are borrowed)
 * Creating timelines, hierarchies, and slicers to enhance visualizations. 
 * Integrating Excel with Power BI to generate real-time reports and publish Dashboards. 
 
-**Python/R Competency:**
-
-
+## Python/R Competency:
 
 * Familiarity with Python Data Types, Syntax Patterns and Error Debugging
 * Working Knowledge with Jupyter Notebooks and Python Shell commands
@@ -136,26 +128,21 @@ Below links show  my works: (Few are my own, few are borrowed)
 * Data Manipulation — Slicing, dicing and Sorting using Pandas 
 * Integration of R/ Python with Power BI in creation of cutting-edge visuals  
 
-**Python Libraries: **
+## Python Libraries:
 
+``` Working Knowledge on Numpy, Pandas, Matplotlib, Beautiful Soup, NLTK, Text Blob, Sklearn, Tensorflow, Keras, etc.```
 
+## R Libraries:
 
-* Working Knowledge on Numpy, Pandas, Matplotlib, Beautiful Soup, NLTK, Text Blob, Sklearn, Tensorflow, Keras, etc.
+```Working Knowledge on ggplot2, weka, tidy, shiny, wordcloud, Dplyr, Knitr, etc.```
 
-**R Libraries:**
-
-
-
-* Working Knowledge on ggplot2, weka, tidy, shiny, wordcloud, Dplyr, Knitr, etc.
-
-**Machine Learning Competency**
+## Machine Learning Competency
 
 Can let machine do the following using Supervised/Unsupervised Techniques
 
 ..Predict numerical data using Regression Methods
 
-
-    ..Classify Categorical data and predict the Target value using Decision Tree/Random Forest/Naive Bayes/Neural Networks/Support Vector Machines
+..Classify Categorical data and predict the Target value using Decision Tree/Random Forest/Naive Bayes/Neural Networks/Support Vector Machines
 
 ..Cluster data using KNN Clustering Algorithm
 
@@ -163,7 +150,7 @@ Can let machine do the following using Supervised/Unsupervised Techniques
 
 ..Classify image data using Neural Network
 
-**NLP Competency **
+## NLP Competency
 
 Can let Machine do the following tasks
 

@@ -136,9 +136,9 @@ Below links show  my works: (Few are my own, few are borrowed)
 
 ```Working Knowledge on ggplot2, weka, tidy, shiny, wordcloud, Dplyr, Knitr, etc.```
 
-## Machine Learning Competency..
+## Machine Learning Competency:
 
-Can let machine do the following using Supervised/Unsupervised Techniques
+_Can let machine do the following using Supervised/Unsupervised Techniques.._
 
 § Predict numerical data using Regression Methods
 
@@ -150,10 +150,9 @@ Can let machine do the following using Supervised/Unsupervised Techniques
 
 § Classify image data using Neural Network
 
-## NLP Competency..
+## NLP Competency:
 
-Can let Machine do the following tasks
-
+_Can let Machine do the following tasks.._
 § Understand the sentiment of Tweets
 
 § Create Word Clouds from a data set

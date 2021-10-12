@@ -130,13 +130,11 @@ Below links show  my works: (Few are my own, few are borrowed)
 
 ## Python Libraries:
 
-``` Working Knowledge on Numpy, Pandas, Matplotlib, Beautiful Soup, NLTK, Text Blob, Sklearn, Tensorflow, Keras, etc.
-```
+``` Working Knowledge on Numpy, Pandas, Matplotlib, Beautiful Soup, NLTK, Text Blob, Sklearn, Tensorflow, Keras, etc.```
 
 ## R Libraries:
 
-```Working Knowledge on ggplot2, weka, tidy, shiny, wordcloud, Dplyr, Knitr, etc.
-```
+```Working Knowledge on ggplot2, weka, tidy, shiny, wordcloud, Dplyr, Knitr, etc.```
 
 ## Machine Learning Competency:
 

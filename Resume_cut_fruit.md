@@ -61,8 +61,6 @@ Feb 2008 – June 2014
 I am also keen on designing my own bots, web apps and creative code runs.
 
 Below links show  my works: (Few are my own, few are borrowed)
-
-
 ```
 
 

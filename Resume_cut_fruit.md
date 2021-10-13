@@ -1,7 +1,7 @@
-# ANKEM PRADEEP
+# ANKEM PRADEEP (BE, MBA)
 
 
-# Power BI Developer (BE, MBA)    
+# Power BI Developer     
 
 
 # 13+ years experience

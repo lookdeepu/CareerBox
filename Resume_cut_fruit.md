@@ -1,7 +1,7 @@
 # ANKEM PRADEEP
 
 
-# Data Scientist (BE, MBA)    
+# Power BI Developer (BE, MBA)    
 
 
 # 13+ years experience

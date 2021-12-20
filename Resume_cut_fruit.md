@@ -6,7 +6,7 @@
 
 # 13+ years experience
 
-+91 7032276759| lookdeepu@gmail.com
++91 7032276759| ankem.pradeep@gmail.com
 
 
 # About Me

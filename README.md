@@ -9,6 +9,7 @@ This is one man's journey to the search of Power BI Job Profile
   2. Some PDF files on how you would do the Report
   3. Cover letter sample
   4. Sample Chatbot Q&A
+  5. Most common interview  questions in Power BI
  ```
 
 

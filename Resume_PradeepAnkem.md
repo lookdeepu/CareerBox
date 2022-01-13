@@ -64,7 +64,7 @@ Below links show  my works: (Few are my own, few are borrowed)
 ```
 
 
-[[Click here](https://sites.google.com/view/robotic-future/portfolio)]
+[https://sites.google.com/view/robotic-future/portfolio]
 
 
 # Communication skills

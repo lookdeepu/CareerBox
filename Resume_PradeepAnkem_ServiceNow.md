@@ -1,7 +1,7 @@
 # ANKEM PRADEEP (BE, MBA)
 
 
-# Power BI Developer     
+# Service Now Developer     
 
 
 # 14+ years experience
@@ -23,7 +23,7 @@ To make a Computer, a Story-Teller looking at any Data
 Python, R, Javascript, Azure Machine Learning Studio, Power BI (Dax and Power Query), Wolfram Language, Chatbots (AI), NLP
 
 
-## Data Scientist, TCS (7+ years)	
+## ServiceNow Developer, TCS (7+ years)	
 
 June 2014 – To Present
 
@@ -31,14 +31,16 @@ Within TCS, I have taken 4 Client engagements (3 Global and 1 Domestic) as an **
 
 _Summary of my journey in TCS so far:_
 
-* Built End to End Dashboard for Data Center Services that helped the client to monitor KPIs on Monthly basis 
-* Built End to End Dashboard for Project Management to track the complete progress of any given project
-* Designed IT Service Desk Chatbot for the Client that helps for incident management tracking and helped the Client very well during lean staff scenarios, especially in covid-hit time zones.  
-* Applied Machine learning algorithms to figure out SLA breach tickets for incidents
-* Used R Plots and integrated with Power BI for better visuals. 
+* Worked on internal portal for accessing all the business services by using ServiceNow Content Management Application.
+* Configured Mid Servers on local Windows servers for Servicenow Integrations and Discovery Application.
+* Individually implemented Discovery Application for populating CMDB.
+* Migrated the update sets to Production and handle Release Management activities.
+* Customized the forms and lists of Incident and Problem Management tables.
+* Customized the used Change Application to personalize menus and rules as per process requirements.
+* Extensively worked writing Sever side scripts, developing Business Rules, UI Action to achieve business rules in ServiceNow.
 
 
-## Data Analyst, GMR Group (6+ years)
+## Service Engineer, GMR Group (6+ years)
 Feb 2008 – June 2014
 
 * Done Budget Forecasting and Audit analysis of IT Finance for the Enterprise

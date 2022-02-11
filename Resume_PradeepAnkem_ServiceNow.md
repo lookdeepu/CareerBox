@@ -11,16 +11,11 @@
 
 # About Me
 
-_“Engineer by trade, Mathematician by heart”_
-
-# Objective
-
-To make a Computer, a Story-Teller looking at any Data
-
+_“Make things simpler by code”_
 
 # Skills and Abilities
 
-Python, R, Javascript, Azure Machine Learning Studio, Power BI (Dax and Power Query), Wolfram Language, Chatbots (AI), NLP
+Javascript, Wolfram Language, Chatbots (AI), NLP
 
 
 ## ServiceNow Developer, TCS (7+ years)	

@@ -10,7 +10,7 @@
 
 # About Me
 
-_“Make things simple with Code”_
+_“Make things simpler with Code”_
 
 
 # Skills and Abilities

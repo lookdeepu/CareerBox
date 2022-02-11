@@ -4,7 +4,7 @@
 # Data Scientist (BE, MBA)    
 
 
-# 13+ years experience
+# 14+ years experience
 
 +91 7032276759| lookdeepu@gmail.com
 

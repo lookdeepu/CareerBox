@@ -7,15 +7,18 @@
 
 +91 7032276759| ankem.pradeep@gmail.com
 
-
 # About Me
 
-_“Make things simpler with Code”_
+_“Make things simpler with code”_
+
+# Objective
+
+To make a Computer, a Story-Teller looking at any Data
 
 
 # Skills and Abilities
 
-Javascript, Python, R, Wolfram Language, Chatbots (AI), NLP
+Python, R, Javascript, Azure Machine Learning Studio, Power BI (Dax and Power Query), Wolfram Language, Chatbots (AI), NLP
 
 
 ## Data Scientist, TCS (7+ years)	

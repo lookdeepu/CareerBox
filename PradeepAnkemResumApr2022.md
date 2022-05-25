@@ -8,7 +8,7 @@
 
 # About Me
 
-_“A restless Coder , who would like to address complexity fabric around an organization with analytics and automation”_
+_“A Coder , who would like to address complexity fabric around an organization with analytics and automation”_
 
 # Career Objective
 

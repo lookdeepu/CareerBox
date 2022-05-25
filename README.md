@@ -1,7 +1,7 @@
 
 Here are the different links
 
-* Updated Resume [PDF link](https://drive.google.com/file/d/1DY6ZyhjpzNHpoRQpkGaif4Ik6-zAX3VH/view)  <!--link needs to be updated-->
+* Updated Resume [PDF link]([https://drive.google.com/file/d/1DY6ZyhjpzNHpoRQpkGaif4Ik6-zAX3VH/view](https://drive.google.com/file/d/1aJ1YuBUvgaZoU69dzSDFqCHRi6Yl4qip/view?usp=sharing))  <!--link needs to be updated-->
 * Updated Resume - Train [PDF link](https://www.example.com) <!--link needs to be updated-->
 * Share the Resume as an Email
 * Try to speak to my Bot [link](https://www.example.com)
